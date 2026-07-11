@@ -7,6 +7,16 @@
 - 🤖 Integro **IA en mi flujo de desarrollo** (Claude Code, agentes, automatización con LLMs) para construir y entregar más rápido
 - 📈 Ahora mismo profundizando en arquitectura backend y buenas prácticas de producción
 
+## 💼 Qué he construido profesionalmente
+
+Actualmente desarrollo para una empresa un **portal de empleados y clientes** en producción:
+
+- **Backend Java + Spring Boot** con autenticación JWT, control de acceso por roles, cifrado de datos personales en reposo (AES-GCM) y registro de auditoría.
+- **Ingesta de datos** desde sistemas externos para alimentar **dashboards** de métricas, evolución de balances y cálculo de comisiones.
+- **Despliegue en AWS** con infraestructura como código (Terraform): EC2, RDS, S3 y CloudFront.
+
+*(Código privado por confidencialidad — encantado de contar los detalles técnicos en una entrevista.)*
+
 ## 🛠️ Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
