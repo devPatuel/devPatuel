@@ -38,6 +38,14 @@ Actualmente desarrollo para una empresa un **portal de empleados y clientes** en
 | [API_Frases_Celebres](https://github.com/devPatuel/API_Frases_Celebres) | API REST de frases célebres | Java |
 | [MiTowerDefense](https://github.com/devPatuel/MiTowerDefense) | Juego tower defense hecho desde cero | Java |
 
+## 📊 Estadísticas
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devPatuel&theme=default" alt="Resumen del perfil" width="100%" />
+<p>
+  <img height="180" src="https://streak-stats.demolab.com?user=devPatuel&locale=es&hide_border=true" alt="Racha de contribuciones" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devPatuel&theme=default" alt="Lenguajes por repositorio" />
+</p>
+
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jordi-patuel/)
