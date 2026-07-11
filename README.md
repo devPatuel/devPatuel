@@ -4,6 +4,7 @@
 
 - 💼 Backend con **Java + Spring Boot** · apps multiplataforma con **Flutter/Dart**
 - ☁️ Desplegando en **AWS**
+- 🤖 Integro **IA en mi flujo de desarrollo** (Claude Code, agentes, automatización con LLMs) para construir y entregar más rápido
 - 📈 Ahora mismo profundizando en arquitectura backend y buenas prácticas de producción
 
 ## 🛠️ Stack
@@ -13,7 +14,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Proyectos destacados
