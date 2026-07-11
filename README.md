@@ -5,6 +5,7 @@
 - 💼 Backend con **Java + Spring Boot** · apps multiplataforma con **Flutter/Dart**
 - ☁️ Desplegando en **AWS**
 - 🤖 Integro **IA en mi flujo de desarrollo** (Claude Code, agentes, automatización con LLMs) para construir y entregar más rápido
+- 🌐 Explorando también el **desarrollo web** — portfolio personal en camino 🚧
 - 📈 Ahora mismo profundizando en arquitectura backend y buenas prácticas de producción
 
 ## 💼 Qué he construido profesionalmente
