@@ -29,7 +29,11 @@ He desarrollado en solitario el **portal de empleados y clientes** de una empres
 
 ## 🎓 Certificaciones
 
-- [**Introduction to Cybersecurity** — Cisco Networking Academy](https://www.credly.com/badges/53443918-3ee9-4e34-9ee9-67a3b4ab599f/public_url) · sep 2026
+<a href="https://www.credly.com/badges/53443918-3ee9-4e34-9ee9-67a3b4ab599f/public_url">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" alt="Insignia Introduction to Cybersecurity de Cisco" />
+</a>
+
+[**Introduction to Cybersecurity** — Cisco Networking Academy](https://www.credly.com/badges/53443918-3ee9-4e34-9ee9-67a3b4ab599f/public_url) · sep 2026
 
 ## 🚀 Proyectos destacados
 
