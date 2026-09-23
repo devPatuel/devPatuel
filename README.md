@@ -27,6 +27,10 @@ He desarrollado en solitario el **portal de empleados y clientes** de una empres
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🎓 Certificaciones
+
+- [**Introduction to Cybersecurity** — Cisco Networking Academy](https://www.credly.com/badges/53443918-3ee9-4e34-9ee9-67a3b4ab599f/public_url) · sep 2026
+
 ## 🚀 Proyectos destacados
 
 | Proyecto | Qué es | Stack |
